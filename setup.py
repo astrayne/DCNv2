@@ -1,4 +1,4 @@
-#!/usr/local/lib/python3
+#!/usr/local/lib/python3.7
 
 import os
 import glob

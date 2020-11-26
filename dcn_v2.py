@@ -1,4 +1,4 @@
-#!/usr/local/lib/python3
+#!/usr/local/lib/python3.7
 from __future__ import absolute_import
 from __future__ import print_function
 from __future__ import division
